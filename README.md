@@ -28,6 +28,9 @@ Permite observar tendencias como que los vehículos más nuevos tienen mejor con
 - pandas
 - plotly
 
+### Para consultar el proyecto en Render se puede mediante el siguiente enlace
+- https://proyecto-sprint7-1ugl.onrender.com/
+
 ## Cómo ejecutar
 
 ```bash
