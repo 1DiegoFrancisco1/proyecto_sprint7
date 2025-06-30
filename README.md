@@ -5,14 +5,14 @@ Repositorio de el proyecto del sprint 7, donde se explora un dataset con ventas 
 
 Esta aplicación fue desarrollada como parte del Sprint 7 del bootcamp de ciencia de datos en TripleTen. Utiliza Streamlit para desplegar un dashboard interactivo que permite visualizar un conjunto de datos sobre anuncios de venta de vehículos en EE.UU.
 
-## Funcionalidad
+## Funcionalidad basica
 
 - Mostrar una vista previa del dataset.
 - Construir un histograma de la columna `odometer`.
 - Construir un gráfico de dispersión para analizar la relación entre el precio y el año del modelo del vehículo, agrupado por condición.
 
 ## Extras
- 
+
 ### 📦 Gráfico de barras apiladas: Tipos de vehículo por fabricante
 Visualiza cuántos vehículos tiene cada fabricante, divididos por tipo de vehículo (SUV, sedan, pickup, etc.).  
 Útil para comparar el enfoque de cada marca respecto a su catálogo de productos.
